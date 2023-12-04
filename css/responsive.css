@@ -1,0 +1,80 @@
+@media (max-width: 767px) {
+	.topbar {
+		padding: 5px 0px;
+	}
+	.topbar p {
+		font-size: 13px;
+	}
+	.hideme {
+		display: none;
+	}
+	.navbar-brand img {
+		max-width: 135px;
+	}
+	.carousel-caption h5 {
+		font-size: 17px;
+	}
+	.carousel-caption p {
+		margin-top: 0;
+		font-size: 13px;
+		display: none;
+	}
+	.carousel-caption {
+		    padding-top: 5%;
+    width: 60%;
+    left: 0;
+    display: inline-table;
+	}
+	.main-section {
+    padding: 35px 0px;
+}
+.head-main h3 {
+    font-size: 28px;
+   }
+   .head-main p {
+       font-size: 14px;
+   }
+   .about-inner{
+   	    margin-top: 25px;
+   }
+   .service-section .service-box{
+   	min-height: auto;
+   }
+   .owl-prev{
+   	left: 0;
+   }
+   .owl-next{
+   	right: 0;	
+   }
+   .inner-page-land {
+   	 min-height: 150px;
+}
+.inner-big-text {
+    font-size: 13px;
+    line-height: 27px;
+}
+.serve-box .inner-serve{
+	margin-bottom: 20px;
+}
+.cont-view{
+	margin-bottom: 10px;
+	min-height: auto;
+}
+.map-box iframe{
+	width: 100%;
+}
+.hire-box .hire-view{
+	margin-bottom: 20px;
+	min-height: auto;
+}
+.main-btn {
+    font-size: 13px;
+    padding: 7px 15px;
+}
+.landing{
+	position: relative;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+	display: none;
+}
+}
